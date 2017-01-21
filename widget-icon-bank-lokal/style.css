@@ -1,0 +1,100 @@
+@import url("media_queries.css");
+
+.wp_bank_lokal_box span{
+	float: right;
+    padding-left: 20px;
+    width: 100px;
+
+}
+#inner{}
+.norek{
+	font-size: 9px;
+	float: right;
+    padding-left: 20px;
+    width: 100px;}
+
+.img-bca{
+	background: url("images/lokal-bank.png") no-repeat  0 0 ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+}
+
+.img-mandiri{
+	background: url("images/lokal-bank.png") no-repeat  0 -50px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+}
+
+.img-bri{
+	background: url("images/lokal-bank.png") no-repeat  0 -150px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-bni{
+	background: url("images/lokal-bank.png") no-repeat  0 -100px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-bii{
+	background: url("images/lokal-bank.png") no-repeat  0 -200px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-cimb{
+	background: url("images/lokal-bank.png") no-repeat  0 -250px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-dana{
+	background: url("images/lokal-bank.png") no-repeat  0 -300px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-pan{
+	background: url("images/lokal-bank.png") no-repeat  0 -350px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-per{
+	background: url("images/lokal-bank.png") no-repeat  0 -400px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-btn{
+	background: url("images/lokal-bank.png") no-repeat  0 -450px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}
+
+.img-mua{
+	background: url("images/lokal-bank.png") no-repeat  0 -500px ;
+    height: 40px;
+	text-align: right;
+	margin-bottom: 20px;
+
+}

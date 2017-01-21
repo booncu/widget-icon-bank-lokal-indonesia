@@ -1,0 +1,16 @@
+/* Landscape phone to portrait tablet */
+@media only screen and(min-width:320px)and(max-width: 767px)) { 
+	.norek:after{
+	clear: both;
+	content: " ";
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width: 0;
+}
+
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { ... }
